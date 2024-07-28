@@ -1,7 +1,9 @@
 # google-cloud-samples
 This repo contains Google Cloud samples and demos of things that I have been building out.
 
-Note: These are not the official samples. The samples on this repo might be outdated. Please do your diligence before using them.
+Note: These are not the official samples. \
+The samples on this repo might be outdated. \
+Please do your diligence before using them.
 
 Some official repos:
 
